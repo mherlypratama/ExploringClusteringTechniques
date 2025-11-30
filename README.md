@@ -1,2 +1,3 @@
 # ExploringClusteringTechniques
-Exploring Clustering Techniques
+
+## Data Understanding
